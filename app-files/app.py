@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 
 # load trained model
-pipe=pickle.load(open('final-pipeline-salary-prediction.pkl', 'rb'))
+pipe=pickle.load(open('app-files/final-pipeline-salary-prediction.pkl', 'rb'))
 
 # app title
 st.title('Salary Prediction App')
