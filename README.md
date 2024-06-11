@@ -1,6 +1,7 @@
 # Salary Prediction
    - An end-to-end data science project I made as a machine learning intern @ Mentorness.
    - This project predicts employee salaries using advanced regression techniques and thorough data preprocessing. We compare multiple machine learning models to select the best-performing one, which is then integrated into a pipeline. This pipeline includes all necessary preprocessing steps, ensuring accurate predictions and easy deployment.
+   - **You can find the web app [here](https://salary-prediction-1806.streamlit.app/).**
 
 Steps performed: 
 ## 1. Exploratory Data Analysis
@@ -62,5 +63,5 @@ Steps performed:
    - Deployed the application using Streamlit's built-in sharing platform.
    - Included a `requirements.txt` file to ensure easy replication of the development environment for deployment.
    - App file [link](https://github.com/sanhiitaa/salary-prediction/blob/main/app-files/app.py)
-
-### **You can find the web app [here](https://salary-prediction-1806.streamlit.app/).**
+     
+## Thank you for taking the time to check this project out!
